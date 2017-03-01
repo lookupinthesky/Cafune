@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cafune</string>
+
+    <string name="playlists">Sample Playlist Item</string>
+    <string name="artists">Sample Artist Item</string>
+    <string name="albums">Sample Album Name</string>
+    <string name="songs">Sample Songs Name</string>
+    <string name="sample_artist_name">Pink Floyd</string>
+
+
+</resources>
